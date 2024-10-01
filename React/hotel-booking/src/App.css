@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.margin{
+  margin-top: 120px;
+  margin-bottom: 50px;
+}
+
+.pad{
+  padding: 10%;
+}
